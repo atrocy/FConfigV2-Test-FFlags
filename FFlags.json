@@ -4,6 +4,6 @@
   "FStringTestString": "Hello, World!",
   "FStringJson": "{\"check\": true}",
   "DFFlagTestDynamicFlag": true,
-  "DFIntTestDynamicInt": 1001,
+  "DFIntTestDynamicInt": 1000,
   "DFStringTestDynamicString": "Hello, dynamic World!"
 }
