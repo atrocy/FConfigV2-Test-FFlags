@@ -6,10 +6,5 @@
   "DFFlagTestDynamicFlag": true,
   "DFIntTestDynamicInt": 1337,
   "DFStringTestDynamicString": "Hello, dynamic World!",
-  "DFTableTestTable": {
-    "id": {
-      "T": "rbx",
-      "Owner": "atrocy"
-    }
-  }
+  "DFTableTestTable": {}
 }
