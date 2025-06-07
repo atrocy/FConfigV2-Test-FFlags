@@ -6,5 +6,8 @@
   "DFFlagTestDynamicFlag": true,
   "DFIntTestDynamicInt": 1337,
   "DFStringTestDynamicString": "Hello, dynamic World!",
-  "DFTableTestTable": {}
+  "DFTableTestTable": {
+    "coolkey": true,
+    "evilkey": 666
+  }
 }
