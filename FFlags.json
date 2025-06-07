@@ -1,14 +1,15 @@
 {
   "FFlagTestFlag": "True",
-  "FIntTestInt": 1035,
+  "FIntTestInt": 1115,
   "FStringTestString": "Hello, World!",
-  "FStringJson": "{\"check\": true}",
+  "FStringJSON": "{\"check\": true}",
   "DFFlagTestDynamicFlag": true,
   "DFIntTestDynamicInt": 1337,
-  "DFStringTestDynamicString": "Hello, dynamic World!",
+  "DFStringTestDynamicString": "Hello, dynamic World! nello fel",
   "DFTableTestTable": {
     "coolkey": true,
     "evilkey": 666,
-    "againhi": "YESNELLO"
+    "goodkey": 777,
+    "againhi": "YESNELLO777"
   }
 }
